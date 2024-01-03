@@ -33,7 +33,6 @@ This repository contains the artifacts developed for the identification of malic
   - ml_models.ipynb: Machine learning model training.
   - ml_best_model.ipynb: Application of the trained model to new posts.
 
-...
 
 ## Pre-processing
 
