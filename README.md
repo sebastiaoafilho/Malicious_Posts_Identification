@@ -13,6 +13,7 @@ This repository contains the artifacts developed for the identification of malic
 - **dataset_II:**
   - Labeled considering IoCs, keywords, and manual analysis.
   - Contains 26,575 posts from the Dark Web (3,341 Relevant, 23,234 Not Relevant).
+  - (Note: All posts from dataset_I are included in dataset_II).
 
 - **dataset_III:**
   - Contains 7,498 previously unlabeled posts from the Dark Web.
