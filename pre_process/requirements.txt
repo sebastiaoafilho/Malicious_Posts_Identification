@@ -1,0 +1,5 @@
+pandas
+json
+nltk
+beautifulsoup4
+unidecode
