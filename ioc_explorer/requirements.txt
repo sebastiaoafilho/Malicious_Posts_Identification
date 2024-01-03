@@ -1,0 +1,11 @@
+certifi
+chardet
+idna
+ioc-finder
+ipaddress
+pandas
+regex
+requests
+tldextract
+tqdm
+urllib3
